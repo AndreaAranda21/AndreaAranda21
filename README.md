@@ -116,25 +116,23 @@
 
 ## 📊 Mis estadísticas de GitHub
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img
-        width="100%"
-        src="https://github-stats-extended.vercel.app/api?username=AndreaAranda21&show_icons=true&bg_color=282c34&title_color=e4b860&text_color=ff6b6b&icon_color=8ec07c&border_color=d8dee9&custom_title=Estadísticas%20de%20Andrea"
-        alt="Estadísticas de Andrea"
-      />
-    </td>
-
-    <td width="50%" align="center">
-      <img
-        width="100%"
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=AndreaAranda21&layout=compact&bg_color=282c34&title_color=e4b860&text_color=ff6b6b&icon_color=8ec07c&border_color=d8dee9&custom_title=Lenguajes%20más%20usados"
-        alt="Lenguajes más usados"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/AndreaAranda21">
+    <img
+      width="49%"
+      height="210"
+      src="https://github-stats-extended.vercel.app/api?username=AndreaAranda21&show_icons=true&bg_color=282c34&title_color=e4b860&text_color=ff6b6b&icon_color=8ec07c&ring_color=e4b860&border_color=d8dee9&border_radius=8&custom_title=Estadísticas%20de%20Andrea"
+      alt="Estadísticas de Andrea"
+    />
+  </a><a href="https://github.com/AndreaAranda21">
+    <img
+      width="49%"
+      height="210"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=AndreaAranda21&layout=compact&langs_count=6&bg_color=282c34&title_color=e4b860&text_color=ff6b6b&icon_color=8ec07c&border_color=d8dee9&border_radius=8&custom_title=Lenguajes%20más%20usados"
+      alt="Lenguajes más usados"
+    />
+  </a>
+</p>
 
 <br>
 
