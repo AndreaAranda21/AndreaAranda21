@@ -99,16 +99,18 @@
 </td>
 </tr>
 
-<tr>
+<<tr>
 <td><b>Otras herramientas</b></td>
 <td>
   <img
-    height="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/odoo/odoo-original.svg"
+    src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"
     alt="Odoo"
   />
-  &nbsp;&nbsp;
-  <b>Excel</b>
+  &nbsp;
+  <img
+    src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge"
+    alt="Microsoft Excel"
+  />
 </td>
 </tr>
 
@@ -123,7 +125,6 @@
 <p align="center">
 <a href="https://github.com/AndreaAranda21/Rumula"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=AndreaAranda21&repo=Rumula&bg_color=282c34&title_color=e4b860&text_color=ff6b6b&icon_color=8ec07c&border_color=d8dee9&border_radius=8" alt="Rumula"></a><a href="https://github.com/AndreaAranda21/matakemon"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=AndreaAranda21&repo=matakemon&bg_color=282c34&title_color=e4b860&text_color=ff6b6b&icon_color=8ec07c&border_color=d8dee9&border_radius=8" alt="Matakemon"></a>
 </p>
-
 <br>
 
 ---
