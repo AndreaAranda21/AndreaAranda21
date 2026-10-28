@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  💻 Desarrolladora de Software | DAM 🎓 | Estudiante de DAW 🌐
+  💻 Desarrolladora de DAM 🎓 | Estudiante de DAW 🌐
 </h3>
 
 <br>
